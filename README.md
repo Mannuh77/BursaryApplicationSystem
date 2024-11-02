@@ -1,11 +1,11 @@
-Kibwezi West Constituency Bursary Application System
+**Kibwezi West Constituency Bursary Application System**
 
 Welcome to the Kibwezi West Constituency Bursary Application System—a fully-featured web application designed to streamline and digitize the bursary application process, benefiting residents and administrators alike.
 
-Project Overview:
+**Project Overview:**
 This system enables eligible residents to easily register, apply for bursaries, and track the progress of their applications online. Built with a powerful combination of front-end and back-end technologies, this platform brings transparency and efficiency to the bursary distribution process.
 
-Technologies Used:
+**Technologies Used:**
 Front-End: Developed using HTML, CSS, and JavaScript to provide a smooth and user-friendly interface. The front-end design is responsive and intuitive, allowing users to navigate the application seamlessly across devices.
 Back-End: Powered by PHP, the server-side logic processes data securely, handles form submissions, and interacts with the database to provide a dynamic experience.
 REST APIs: RESTful APIs connect the front-end with the back-end, allowing real-time data handling. These APIs are designed to support actions like user registration, application submission, status retrieval, and more, ensuring smooth and efficient communication.
