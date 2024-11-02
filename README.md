@@ -23,12 +23,16 @@ The database is managed using SQL, storing and organizing all user information, 
 
 **For Users:**
 User Registration and Login: Residents can create personal accounts with secure authentication, ensuring their data is kept private and accessible only to them.
+
 Biodata Management: Users can easily input and update personal and educational details required for application consideration.
 Bursary Application Submission: Applicants can complete and submit bursary applications with a few clicks, making the process accessible and convenient.
+
 Application Status Tracking: Users can monitor their application status and receive updates directly on their dashboard.
 For Administrators:
+
 Admin Dashboard: Provides a centralized dashboard for administrators to manage user data, view and process applications, and update statuses.
 Application Review: Administrators can review and validate user-submitted applications with efficiency and accuracy.
+
 Data Management and Reporting: Enables administrators to generate reports and manage data systematically, ensuring a transparent bursary distribution process.
 
 Why This System Matters:
